@@ -40,3 +40,15 @@
   </a>
 </p>
 
+<h2></h2>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+**Languages and Frameworks**
+
+**Tools and Environments**
+
+<code>[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-3a83cb?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)](https://code.visualstudio.com/)</code>
+
+<code>[![](https://img.shields.io/badge/-TailwindCSS-55b6bb?style=flat-square&logo=Tailwind%20CSS&logoColor=ffffff)](https://code.visualstudio.com/)</code>
+
