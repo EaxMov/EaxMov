@@ -42,7 +42,7 @@
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;**Platform and Frameworks**
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> **Platform and Frameworks**
 
 <code>[![](https://img.shields.io/badge/MBP-BigSur-282d38?style=flat-square&logo=Apple&logoColor=ffffff)](https://code.visualstudio.com/)</code><code>[![](https://img.shields.io/badge/Windows-10-3870b3?style=flat-square&logo=Windows&logoColor=ffffff)](https://code.visualstudio.com/)</code><code>[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-3a83cb?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)](https://code.visualstudio.com/)</code><code>[![](https://img.shields.io/badge/Git-git-204ECF?style=flat-square&logo=Git&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)</code>
 
