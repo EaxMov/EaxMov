@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Check out my work below!</strong>
-  <br><br>
+  <br>
   <a href="https://github.com/EaxMov">
     <img src="https://badges.pufler.dev/visits/EaxMov/EaxMov?style=flat-square&color=black&logo=github">
   </a>
